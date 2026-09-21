@@ -7,6 +7,7 @@ opt.tabstop = 3 -- Number of spaces tabs count for
 opt.shiftwidth = 3 -- Size of an indent
 opt.softtabstop = 3 -- Number of spaces in tab when editing
 opt.expandtab = true -- Use spaces instead of tabs
+opt.wrap = true
 
 opt.number = true -- Show line numbers
 opt.relativenumber = false -- Disable relative line numbers
